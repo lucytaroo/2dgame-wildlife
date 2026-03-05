@@ -11,8 +11,18 @@ How to Play WildLife (2D Game)
 6. Run the game
    - Open the extracted folder.
    - Double-click the file:
-     - Sultan Quest Lost.exe
+     - Wild Life Quest.exe
 
 Enjoy playing the game! 🎮
 
-Download the latest build here: [Download MyGame Build] (https://drive.google.com/uc?export=download&id=1vjbf-rxxVRN3GGQrrV-XjGS5DNJKPpYv)
+Github
+Download the latest build here: [Download MyGame Build] (https://github.com/lucytaroo/2dgame-wildlife/releases/download/v1.0/WildLife.Quest.zip)
+
+Google Drive
+Download the latest build here: [Download MyGame Build] (https://drive.google.com/uc?export=download&id=1dzrsi5TfpUJdPcjaEv-lYqh8KqMPUHwF)
+
+---------------------------------------------------------------------------------------------------------------
+
+🛠️ Built With
+Unity – Game engine
+C# – Game logic
