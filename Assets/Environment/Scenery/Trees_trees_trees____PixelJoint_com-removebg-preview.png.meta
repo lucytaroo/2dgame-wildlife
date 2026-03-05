@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: a40da09a899a5df41b897ac11f9e1b5e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 366
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfff3ce80847b3442abe7b1734f14b36
+      internalID: -915055458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 364
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c1a321c2cf74840b00371ad1e86fb2
+      internalID: 2020721294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 365
+        width: 72
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010db36016c09ff4aa2e3709e51d6291
+      internalID: -570109899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 363
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda0e88eda0144b42a9f43ad063ba694
+      internalID: -685622680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 362
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ea52ab5b305f247ba29b86f79139f6
+      internalID: -721152883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 360
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863901a953e388c4ca009d574823806e
+      internalID: 1874635509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 245
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccef213f1a8f62243a29642d12d263d9
+      internalID: -1025522029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 246
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61185527d24b27d42a467225448e4a27
+      internalID: 1006023413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 247
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59282b2d0014ca4a946a3ba8dc63e54
+      internalID: 592904969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 250
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d5a79d8f3681a49961a3fe1539d41e
+      internalID: -1514955264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 247
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4566429c9c179b04a9c517c4b7d89252
+      internalID: -605518996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 246
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0ebc924e319904495001178a28d0e3
+      internalID: -1390586957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 125
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10060cdb0bc08b4eb4c2fb93a8395d6
+      internalID: -1320555000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 124
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ab869c772d5894387694eebb815286
+      internalID: -1695440589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 128
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec57e97c43809ac41ac00de5f9ab965a
+      internalID: -1642973792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156a508543dcd264396c1f8034773c94
+      internalID: 2029137549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 126
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2444901c5e97d345bc986cd6b51f58d
+      internalID: 1158300925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 127
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8eb6f5538b3ec419e9e780a8b00f8c
+      internalID: -1745100428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 127
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3c0a78f170a414bb1aed548f20a5c1
+      internalID: 800127566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 127
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49d7150e9288fc4d90474de23848596
+      internalID: 1414587826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 30
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0489c6ef9b583c4e8099693fe7e6858
+      internalID: 646564821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 30
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdf6a3c99925d34fab4b939156c99ce
+      internalID: 629506076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 30
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2356fdcd3be800f4c933e36a1b54b9b7
+      internalID: 293328020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 30
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375fcee54aeed57498a97258713d9064
+      internalID: 514622417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 30
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3a575e5c9637944908837cf0f128e4
+      internalID: -1417646365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 30
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ca96201a5916549b014d0baa427957
+      internalID: -41852174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_trees_trees____PixelJoint_com-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 30
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fb6d1c732eebe4582c3dfaa161e5de
+      internalID: -1610968044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Trees_trees_trees____PixelJoint_com-removebg-preview_0: -915055458
+      Trees_trees_trees____PixelJoint_com-removebg-preview_1: 2020721294
+      Trees_trees_trees____PixelJoint_com-removebg-preview_10: -605518996
+      Trees_trees_trees____PixelJoint_com-removebg-preview_11: -1390586957
+      Trees_trees_trees____PixelJoint_com-removebg-preview_12: -1320555000
+      Trees_trees_trees____PixelJoint_com-removebg-preview_13: -1695440589
+      Trees_trees_trees____PixelJoint_com-removebg-preview_14: -1642973792
+      Trees_trees_trees____PixelJoint_com-removebg-preview_15: 2029137549
+      Trees_trees_trees____PixelJoint_com-removebg-preview_16: 1158300925
+      Trees_trees_trees____PixelJoint_com-removebg-preview_17: -1745100428
+      Trees_trees_trees____PixelJoint_com-removebg-preview_18: 800127566
+      Trees_trees_trees____PixelJoint_com-removebg-preview_19: 1414587826
+      Trees_trees_trees____PixelJoint_com-removebg-preview_2: -570109899
+      Trees_trees_trees____PixelJoint_com-removebg-preview_20: 646564821
+      Trees_trees_trees____PixelJoint_com-removebg-preview_21: 629506076
+      Trees_trees_trees____PixelJoint_com-removebg-preview_22: 293328020
+      Trees_trees_trees____PixelJoint_com-removebg-preview_23: 514622417
+      Trees_trees_trees____PixelJoint_com-removebg-preview_24: -1417646365
+      Trees_trees_trees____PixelJoint_com-removebg-preview_25: -41852174
+      Trees_trees_trees____PixelJoint_com-removebg-preview_26: -1610968044
+      Trees_trees_trees____PixelJoint_com-removebg-preview_3: -685622680
+      Trees_trees_trees____PixelJoint_com-removebg-preview_4: -721152883
+      Trees_trees_trees____PixelJoint_com-removebg-preview_5: 1874635509
+      Trees_trees_trees____PixelJoint_com-removebg-preview_6: -1025522029
+      Trees_trees_trees____PixelJoint_com-removebg-preview_7: 1006023413
+      Trees_trees_trees____PixelJoint_com-removebg-preview_8: 592904969
+      Trees_trees_trees____PixelJoint_com-removebg-preview_9: -1514955264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

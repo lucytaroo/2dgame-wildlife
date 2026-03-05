@@ -1,0 +1,3308 @@
+fileFormatVersion: 2
+guid: d2450ab9445805b438b8f6cdea06a187
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 444
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d0d294ec9f48d4584d6d64c7620e3f
+      internalID: 167161480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 446
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ca6621b27e2254391d95861d2ea568
+      internalID: -1444330826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 444
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c5f55fe6b3ac479537df512e0c584
+      internalID: 1680480912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 444
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87981e8e933a84448b2a237822156da3
+      internalID: 1678975283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 447
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a13ae12ad5fd3448563505a524b678
+      internalID: -459468591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 444
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ead3b4bafbcd42a64f69ea1a11ca7
+      internalID: -617459270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 446
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289d704cddf0ebc44b7553f232bcee55
+      internalID: 884228160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 446
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e61949eafc7c42a8a275fd627cb24
+      internalID: -1858129819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 446
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2b26778a92f754db077bf2435028f9
+      internalID: 2112005747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 446
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1459b33b69d37418809d59982292b3
+      internalID: 1738325905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 443
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85375e30cd51f724c8a9354c750c71b8
+      internalID: 119775407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 443
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808504f649c5cfc4386f4b703a147d9f
+      internalID: 298066720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 443
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2457548d408d5489868322f7b84092
+      internalID: -532669113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 443
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1f4f140e0197d4b927e2e212cc60ef
+      internalID: 203451784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 417
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427b70276ba1cd74a928af7e70b05816
+      internalID: -146213145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 417
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545ea75ac09b34d4baa239191185864a
+      internalID: 471577739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 417
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28d59a198869e409b1e3ad053d7ec2
+      internalID: -703220445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 418
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d761c80cf2e404aa0dd32d08258b9e
+      internalID: 611902665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 419
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e1935683bbb0748ae0f1a96a2aaa75
+      internalID: 950222533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 418
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d11de624d9a4040812204997280fb4
+      internalID: -1878850031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 413
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e90f9143daeed4996d57731f914836
+      internalID: 1817264852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 414
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57947148f3db20469c76faca1787196
+      internalID: -76470701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 413
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4d84e68ae6b854b8a9e59165e30006
+      internalID: -1714380967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 414
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e22e6694566eb4a9785536a28ab247
+      internalID: 584529637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 414
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db378e7492da76d4fb9b285cd725d2b7
+      internalID: 1926157694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 414
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a43859d1609b04f875faf6b7abeaec
+      internalID: 1941808986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 414
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf81039ccf4b2094c8a3df2efa7b9dc9
+      internalID: 1707914083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 388
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e78ef20baccd3f47a345ce6093eed6d
+      internalID: -600476482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 390
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d9eb051fd5a2e45867c6b27e95eab3
+      internalID: -910714909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 388
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0101b6f71937c194ca1e855f5e887040
+      internalID: 1768413320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_30
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 391
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b59914b09425e546bb866e27900e523
+      internalID: 1852361673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 394
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829d2a0e4ecbe1d418dce2a92ccd6642
+      internalID: 88593947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 392
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a353f54a45d8d54a9ba4d7d8809f54e
+      internalID: 1620280991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 387
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab023d25f9b88e44914c2302f765049
+      internalID: 929232586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 388
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c4067cb4f34bf48abc3b950fb2ce9d
+      internalID: 1551464113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_35
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 387
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7efd835ae356b4abd4cc3b48d7e42f
+      internalID: -1997146225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_36
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 382
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed32b1fb95710a49aa9c2b299e50108
+      internalID: -1037126247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 381
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fd04da83eea0d4d9531c3715b9b95a
+      internalID: 1044671503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 378
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda86572791e8f4994005a0a1bbc5fb
+      internalID: -644192616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_39
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 376
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed637e15a7a9b9949ac5cad83da87a57
+      internalID: 1510599218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 362
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f3817acbd4a841ba6dbd823c6336e
+      internalID: -1593326677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 362
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1103a10bb3c3344b64f92dc7049ad5
+      internalID: 1234101737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 361
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07629aa3c7c494d97719d0e6da1d1e
+      internalID: 1560430644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 365
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7820086d3a4b241b8553fbb2d8686a
+      internalID: -1917248184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_44
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 366
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa590d27ebd8c74dae5b870c42a2240
+      internalID: -1487360374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_45
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 365
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e7742248387f440864ba1f9a31c580
+      internalID: 269616884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 356
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e783e727ff8011b47b79f70885ed0f45
+      internalID: -881455086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 359
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7e8deaab1b2245b103fc9c8b62e27
+      internalID: -33999509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_48
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 346
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7993fca4c69b714989c67c18753d944
+      internalID: 1960154310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_49
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 346
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b1096db2ecb134d9f9e549ade047c9
+      internalID: -67849931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 346
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4038812a992664cac59112211b49d4
+      internalID: 1162238238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_51
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 346
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c17fd929620e0144a4dbf11c5eeca45
+      internalID: 2005413194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 327
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295a0ff287501e9418966c35a36e92ea
+      internalID: 136840149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_53
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 314
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd465ec2955f0dc4689b49c51b11e8f6
+      internalID: 702461785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_54
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 287
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a693a21240704da717cad57cf6be3
+      internalID: 1230484351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 299
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edc3d44924d81e479dffc3a85124d7c
+      internalID: 15178606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 299
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee21189ab94b40044a6cb3b70d2645e7
+      internalID: -1808240135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_57
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 299
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f9d840b8c578c419857ce90e450776
+      internalID: 1508145995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 299
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24816300bdae8874db5797f78c9e72a2
+      internalID: -1908114376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_59
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 288
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9059b593027eb064c98534dfea891aec
+      internalID: 1062735943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 288
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196507d9e1999944782fec94275e366f
+      internalID: -1156964590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_61
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 288
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1743105c304fc8c4090f24dd199f8e28
+      internalID: -557469521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 272
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f7dfd28be025147aac78cdd8512ad7
+      internalID: -1192408008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_63
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 271
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f535deb0506bdb4d845f05efb99bd79
+      internalID: -1771100385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_64
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 245
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185c4fbb8484bce4baec1080ef6d981a
+      internalID: -967175332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_65
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 245
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00607de2c7de8d45acb2eb0b2fa9d1d
+      internalID: 476520620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_66
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 245
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad1427db42293c46b8c9332c948a5bd
+      internalID: 1221807003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_67
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 245
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ff9ddd4e61a5f458d3db7e173db439
+      internalID: 164153330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 245
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa34295521076b4dac6f01bc9e0c5ed
+      internalID: -1334956536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_69
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 227
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2df1c063f0fc147b61fa5a24101cc6
+      internalID: -1666783297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_70
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 229
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d281a20ef3540b3468de92ecc6096c32
+      internalID: -1658435340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_71
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 227
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ee3abf2b351f2449df47fb4e144562
+      internalID: 1645572236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_72
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 217
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea6af43460688e4db08419e72377877
+      internalID: -752130457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_73
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 201
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbe49a2d16ff504380f8b305327d656
+      internalID: 1747920209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_74
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 201
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0973f6e381b59c4680a145c250a7879
+      internalID: -2005723428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_75
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 200
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166a95f208c295646af9832f0c7b0250
+      internalID: -1390303453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_76
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 201
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f001854355185747ac16d5daeafb862
+      internalID: 153446035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea85eef0be809749afe0b5ef617f026
+      internalID: 1196646037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_78
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 188
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8caa9b29f6c3a14d9775513513b4cfa
+      internalID: -1214928196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_79
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 188
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054eeaf32a94df34ead72d332d675fc7
+      internalID: -2011732858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_80
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 188
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6a8e282d7a5f4468ae410fc950c48a
+      internalID: 689674817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 179
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4374e8ed8b0d00c4d867f723fec75a2b
+      internalID: -1155501054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 179
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0054382b6268a7f479dd7d29c1c5a7a1
+      internalID: 454836153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_83
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 179
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0cef30e3f9c494cb4f6054a62dbdaa
+      internalID: 459495914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_84
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 178
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64022cda9eee37f479122bee1a4031c3
+      internalID: -526116707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_85
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b1883a70bdf174ca10fbe1d9588be3
+      internalID: -1450008490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_86
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 173
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acbf92d58336794da276265a1b78693
+      internalID: -1842196207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_87
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 171
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835aa54ca3ffe3a43b113606dc4e6c3b
+      internalID: 452822648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_88
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2746e3e6db4b0af4d94725f37341215f
+      internalID: -1384998359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_89
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 144
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad98a5396aecbe4aade6dc3819608ae
+      internalID: -164238782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_90
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 144
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4944fbb47f240da46ad43be5400a155a
+      internalID: -1918434887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_91
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 142
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb1bf8ad1ef761458b2e1887189ab5d
+      internalID: 852743563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_92
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 143
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc14b59ffc4ecf5409306c5fb796c6c8
+      internalID: 1258453547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_93
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396d0be99364d81409df032bead2dea2
+      internalID: 1299788288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_94
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 132
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143cc04311a8acf4fb7a34a27eb729fe
+      internalID: -1415422192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_95
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 132
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed8bbc0bde630e4995c56238a79b6f0
+      internalID: -40056820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_96
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 133
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f35dca2bcf5cf9479acfec6a4165ccd
+      internalID: 279151477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_97
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 133
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cab7a862d92494bbb057050db67cbf
+      internalID: 1131840243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_98
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 98
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47e9cfeb2f61a543bf4aaf0e65b81ef
+      internalID: -691620971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_99
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e4a67a9a4fa24da190ec9400610e6
+      internalID: -150950533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_100
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 98
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e601b1fba8c3504eb734a5c6d45c67a
+      internalID: 1323176652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_101
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 100
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344c9b9db8f73fd4d9d7c6cc25d9d665
+      internalID: 1616983999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_102
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 102
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513ceb48e4adf884eb5caf793270417c
+      internalID: 761107242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_103
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 100
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f14908f74eb60847830dcb86a012749
+      internalID: -1795325476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_104
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 101
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7bc0bd4ade13e4b966c04d087cdce1
+      internalID: -709139697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_105
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 101
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006663b218008ad40b85912b0aa0e399
+      internalID: 1780529593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_106
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 100
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dbf2aec3f29d340bced5a55b67d037
+      internalID: 1818303913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_107
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 102
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3aeb40376f2ee40aabbd35dc5322bb
+      internalID: -907282629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_108
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 100
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8165944e182925c4facd06658c889b08
+      internalID: -1902910198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_109
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 72
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f515e9062f1bbd4eac33943222e5d43
+      internalID: -1383122362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_110
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 72
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a06673e3957f74488fd9d7e7eba8d24
+      internalID: 707658384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_111
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 71
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764e26e0ed246a849a0638f6dd2d01ec
+      internalID: 25699253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_112
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026a44f155c65b4e893393605ea0125
+      internalID: 888355832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_113
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 74
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04352f001fc08f148a60e3f3546543cf
+      internalID: 1824349716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_114
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 73
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4438a162849e9439feb67a45ff1c53
+      internalID: 629322905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_115
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 73
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3d2b2a99cbf8948bc8dae0c28bd322
+      internalID: 998045540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_116
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 74
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73244e83862fe434280016d74954cb28
+      internalID: 1816269077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_117
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 74
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577030889f92f74b87c91f062498dc1
+      internalID: -2045536916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_118
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 74
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4cbcfdbbc68a54c9870d128285c983
+      internalID: -355500291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_119
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 73
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30f17e907881b04a851c2984d091a55
+      internalID: 370878426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_120
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 73
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae47121dc879bd249a2f94fb5343ca7a
+      internalID: -10080634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_121
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 72
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf25f6cf9edd0c46adb7783b1a623f9
+      internalID: 160116845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 73
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebef525a51070a44b1618162090db2c
+      internalID: -572413812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_123
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 41
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b424c219f7b8b59468aafb1dfeb1c711
+      internalID: 943550865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_124
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 43
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e249b951efa8547a41678aaa226e90
+      internalID: 1240251753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_125
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 41
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1c9749706f7db4cb8f3f21aad9e350
+      internalID: -1828285176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_126
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 44
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d678c09b8349940ba7532532c82178
+      internalID: 931525654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_127
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 47
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2ff7296523d044cb8cd3c5f168df4e
+      internalID: 205272208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_128
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 44
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35577e109e52cae4da8dbfd47f2866b7
+      internalID: 1291308056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_129
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 29
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852019c458de7bd438328644a43a0cb7
+      internalID: 1816328536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_130
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 29
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071ec10cc5ffb2b4db2a646db0c4f057
+      internalID: -606180154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_131
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 43
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a5b3848918f4245919cd915c555762
+      internalID: -913801775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_132
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 46
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f973a64437ca6464d9c111d15f6bb16a
+      internalID: -309946708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_133
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 44
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a034a6165ec4c64799da572d69d4d80
+      internalID: 1314181122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_134
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491ac73680a2324e881b1c8a74fefa3
+      internalID: 888526292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_135
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9830d6844562fc54f96d6cec3a2989c2
+      internalID: 882381993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_136
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 14
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97575fafa6ed36b46bfb9725c4253b27
+      internalID: -766382339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_137
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 17
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d636961490c647d43aee2e0ea12ebd56
+      internalID: 1089582301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_138
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 18
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1001cea73fd4f444a91ea2cde836812
+      internalID: 1626248492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_139
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cffb1ab38e6244486b9ed538dfad95
+      internalID: 1183439031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_140
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 17
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f82ca74504ffa4da353f07451a6c9b
+      internalID: 1745492805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_141
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 17
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72283bdc4c6c9d04d95ccdc6631540c1
+      internalID: -769787936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_142
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 16
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4acc8c757f9664797207bfde8192c4
+      internalID: -463866744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterS1RemovedBG_143
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 17
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01f67c0229d88746b542578337b8544
+      internalID: 1235219373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CharacterS1RemovedBG_0: 167161480
+      CharacterS1RemovedBG_1: -1444330826
+      CharacterS1RemovedBG_10: 119775407
+      CharacterS1RemovedBG_100: 1323176652
+      CharacterS1RemovedBG_101: 1616983999
+      CharacterS1RemovedBG_102: 761107242
+      CharacterS1RemovedBG_103: -1795325476
+      CharacterS1RemovedBG_104: -709139697
+      CharacterS1RemovedBG_105: 1780529593
+      CharacterS1RemovedBG_106: 1818303913
+      CharacterS1RemovedBG_107: -907282629
+      CharacterS1RemovedBG_108: -1902910198
+      CharacterS1RemovedBG_109: -1383122362
+      CharacterS1RemovedBG_11: 298066720
+      CharacterS1RemovedBG_110: 707658384
+      CharacterS1RemovedBG_111: 25699253
+      CharacterS1RemovedBG_112: 888355832
+      CharacterS1RemovedBG_113: 1824349716
+      CharacterS1RemovedBG_114: 629322905
+      CharacterS1RemovedBG_115: 998045540
+      CharacterS1RemovedBG_116: 1816269077
+      CharacterS1RemovedBG_117: -2045536916
+      CharacterS1RemovedBG_118: -355500291
+      CharacterS1RemovedBG_119: 370878426
+      CharacterS1RemovedBG_12: -532669113
+      CharacterS1RemovedBG_120: -10080634
+      CharacterS1RemovedBG_121: 160116845
+      CharacterS1RemovedBG_122: -572413812
+      CharacterS1RemovedBG_123: 943550865
+      CharacterS1RemovedBG_124: 1240251753
+      CharacterS1RemovedBG_125: -1828285176
+      CharacterS1RemovedBG_126: 931525654
+      CharacterS1RemovedBG_127: 205272208
+      CharacterS1RemovedBG_128: 1291308056
+      CharacterS1RemovedBG_129: 1816328536
+      CharacterS1RemovedBG_13: 203451784
+      CharacterS1RemovedBG_130: -606180154
+      CharacterS1RemovedBG_131: -913801775
+      CharacterS1RemovedBG_132: -309946708
+      CharacterS1RemovedBG_133: 1314181122
+      CharacterS1RemovedBG_134: 888526292
+      CharacterS1RemovedBG_135: 882381993
+      CharacterS1RemovedBG_136: -766382339
+      CharacterS1RemovedBG_137: 1089582301
+      CharacterS1RemovedBG_138: 1626248492
+      CharacterS1RemovedBG_139: 1183439031
+      CharacterS1RemovedBG_14: -146213145
+      CharacterS1RemovedBG_140: 1745492805
+      CharacterS1RemovedBG_141: -769787936
+      CharacterS1RemovedBG_142: -463866744
+      CharacterS1RemovedBG_143: 1235219373
+      CharacterS1RemovedBG_15: 471577739
+      CharacterS1RemovedBG_16: -703220445
+      CharacterS1RemovedBG_17: 611902665
+      CharacterS1RemovedBG_18: 950222533
+      CharacterS1RemovedBG_19: -1878850031
+      CharacterS1RemovedBG_2: 1680480912
+      CharacterS1RemovedBG_20: 1817264852
+      CharacterS1RemovedBG_21: -76470701
+      CharacterS1RemovedBG_22: -1714380967
+      CharacterS1RemovedBG_23: 584529637
+      CharacterS1RemovedBG_24: 1926157694
+      CharacterS1RemovedBG_25: 1941808986
+      CharacterS1RemovedBG_26: 1707914083
+      CharacterS1RemovedBG_27: -600476482
+      CharacterS1RemovedBG_28: -910714909
+      CharacterS1RemovedBG_29: 1768413320
+      CharacterS1RemovedBG_3: 1678975283
+      CharacterS1RemovedBG_30: 1852361673
+      CharacterS1RemovedBG_31: 88593947
+      CharacterS1RemovedBG_32: 1620280991
+      CharacterS1RemovedBG_33: 929232586
+      CharacterS1RemovedBG_34: 1551464113
+      CharacterS1RemovedBG_35: -1997146225
+      CharacterS1RemovedBG_36: -1037126247
+      CharacterS1RemovedBG_37: 1044671503
+      CharacterS1RemovedBG_38: -644192616
+      CharacterS1RemovedBG_39: 1510599218
+      CharacterS1RemovedBG_4: -459468591
+      CharacterS1RemovedBG_40: -1593326677
+      CharacterS1RemovedBG_41: 1234101737
+      CharacterS1RemovedBG_42: 1560430644
+      CharacterS1RemovedBG_43: -1917248184
+      CharacterS1RemovedBG_44: -1487360374
+      CharacterS1RemovedBG_45: 269616884
+      CharacterS1RemovedBG_46: -881455086
+      CharacterS1RemovedBG_47: -33999509
+      CharacterS1RemovedBG_48: 1960154310
+      CharacterS1RemovedBG_49: -67849931
+      CharacterS1RemovedBG_5: -617459270
+      CharacterS1RemovedBG_50: 1162238238
+      CharacterS1RemovedBG_51: 2005413194
+      CharacterS1RemovedBG_52: 136840149
+      CharacterS1RemovedBG_53: 702461785
+      CharacterS1RemovedBG_54: 1230484351
+      CharacterS1RemovedBG_55: 15178606
+      CharacterS1RemovedBG_56: -1808240135
+      CharacterS1RemovedBG_57: 1508145995
+      CharacterS1RemovedBG_58: -1908114376
+      CharacterS1RemovedBG_59: 1062735943
+      CharacterS1RemovedBG_6: 884228160
+      CharacterS1RemovedBG_60: -1156964590
+      CharacterS1RemovedBG_61: -557469521
+      CharacterS1RemovedBG_62: -1192408008
+      CharacterS1RemovedBG_63: -1771100385
+      CharacterS1RemovedBG_64: -967175332
+      CharacterS1RemovedBG_65: 476520620
+      CharacterS1RemovedBG_66: 1221807003
+      CharacterS1RemovedBG_67: 164153330
+      CharacterS1RemovedBG_68: -1334956536
+      CharacterS1RemovedBG_69: -1666783297
+      CharacterS1RemovedBG_7: -1858129819
+      CharacterS1RemovedBG_70: -1658435340
+      CharacterS1RemovedBG_71: 1645572236
+      CharacterS1RemovedBG_72: -752130457
+      CharacterS1RemovedBG_73: 1747920209
+      CharacterS1RemovedBG_74: -2005723428
+      CharacterS1RemovedBG_75: -1390303453
+      CharacterS1RemovedBG_76: 153446035
+      CharacterS1RemovedBG_77: 1196646037
+      CharacterS1RemovedBG_78: -1214928196
+      CharacterS1RemovedBG_79: -2011732858
+      CharacterS1RemovedBG_8: 2112005747
+      CharacterS1RemovedBG_80: 689674817
+      CharacterS1RemovedBG_81: -1155501054
+      CharacterS1RemovedBG_82: 454836153
+      CharacterS1RemovedBG_83: 459495914
+      CharacterS1RemovedBG_84: -526116707
+      CharacterS1RemovedBG_85: -1450008490
+      CharacterS1RemovedBG_86: -1842196207
+      CharacterS1RemovedBG_87: 452822648
+      CharacterS1RemovedBG_88: -1384998359
+      CharacterS1RemovedBG_89: -164238782
+      CharacterS1RemovedBG_9: 1738325905
+      CharacterS1RemovedBG_90: -1918434887
+      CharacterS1RemovedBG_91: 852743563
+      CharacterS1RemovedBG_92: 1258453547
+      CharacterS1RemovedBG_93: 1299788288
+      CharacterS1RemovedBG_94: -1415422192
+      CharacterS1RemovedBG_95: -40056820
+      CharacterS1RemovedBG_96: 279151477
+      CharacterS1RemovedBG_97: 1131840243
+      CharacterS1RemovedBG_98: -691620971
+      CharacterS1RemovedBG_99: -150950533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

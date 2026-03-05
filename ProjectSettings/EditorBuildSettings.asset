@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b43661db48b0a7c4aa9f80fa85af7742
+  - enabled: 1
+    path: Assets/Scenes/MiniGame.unity
+    guid: c7acecf4e0fe905448f441920a2545bc
+  - enabled: 1
+    path: Assets/Scenes/ShootingGame.unity
+    guid: 9c3cf60a994a7c44182e2ed14ebf3d0a
+  - enabled: 1
+    path: Assets/Scenes/ScoreBoard.unity
+    guid: 4b81c13201f35904bb8b49dc92fbaa67
+  - enabled: 1
+    path: Assets/Scenes/1Home.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/1EnvJungle.unity
+    guid: 4db4dffed58bf944abb40e1c87d38b5e
+  - enabled: 1
+    path: Assets/Scenes/Battle1.unity
+    guid: 0e191cd4bbfeb544182ca43dec706959
+  - enabled: 1
+    path: Assets/Scenes/2Home.unity
+    guid: aae1a5a56cbff294c8795b676063c8b8
+  - enabled: 1
+    path: Assets/Scenes/2EnvJungle.unity
+    guid: 9bea0e5451af4bb4c90e9ca04d656e2f
+  - enabled: 1
+    path: Assets/Scenes/1EnvCold.unity
+    guid: 0e21709a70917bd4fa8848b2ecf42e5a
+  - enabled: 1
+    path: Assets/Scenes/Battle2.unity
+    guid: a1abd4621f6b2b74d956fd71450a790e
+  - enabled: 1
+    path: Assets/Scenes/3Home.unity
+    guid: aceee24e809a9a64789a92fb2b1819d3
+  - enabled: 1
+    path: Assets/Scenes/3EnvJungle.unity
+    guid: 89bd0c27181472b42b792a4eb0538947
+  - enabled: 1
+    path: Assets/Scenes/2EnvCold.unity
+    guid: d41cfac307a51c24eb217da563e263d1
+  - enabled: 1
+    path: Assets/Scenes/3EnvCold.unity
+    guid: 1cfb352a9526c7941a48a5eb5c51def1
+  - enabled: 1
+    path: Assets/Scenes/Battle3.unity
+    guid: 78eaac61c7e78d148b0c1f8fc287ad7f
+  - enabled: 1
+    path: Assets/Scenes/4Home.unity
+    guid: a15e27db09e5a62498dd8c82fb111923
+  - enabled: 1
+    path: Assets/Scenes/5Home.unity
+    guid: 44e6a35cda3fa7747b8e6d574eca7206
+  - enabled: 1
+    path: Assets/Scenes/4EnvJungle.unity
+    guid: 0eb6201eea034034d901991bc153b7dc
+  - enabled: 1
+    path: Assets/Scenes/Battle4.unity
+    guid: 932108225ef130c4fb0d03a0fa5f89a3
+  - enabled: 1
+    path: Assets/Scenes/4EnvCold.unity
+    guid: 3d0784b9b8dca3845985714675a79bf5
+  m_configObjects: {}
