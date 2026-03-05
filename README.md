@@ -16,10 +16,12 @@ How to Play WildLife (2D Game)
 Enjoy playing the game! 🎮
 
 Github
-Download the latest build here: [Download MyGame Build] (https://github.com/lucytaroo/2dgame-wildlife/releases/download/v1.0/WildLife.Quest.zip)
+Download the latest build here: [Download MyGame Build] 
+(https://github.com/lucytaroo/2dgame-wildlife/releases/download/v1.0/WildLife.Quest.zip)
 
 Google Drive
-Download the latest build here: [Download MyGame Build] (https://drive.google.com/uc?export=download&id=1dzrsi5TfpUJdPcjaEv-lYqh8KqMPUHwF)
+Download the latest build here: [Download MyGame Build] 
+(https://drive.google.com/uc?export=download&id=1dzrsi5TfpUJdPcjaEv-lYqh8KqMPUHwF)
 
 ---------------------------------------------------------------------------------------------------------------
 
